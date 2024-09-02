@@ -1,0 +1,15 @@
+{
+  "name": "mkpass",
+  "version": "1.0.0",
+  "description": "A simple password generator",
+  "main": "mkpass.js",
+  "bin": "./mkpass.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "password-generator"
+  ],
+  "author": "Harish Karumuthil<harish2704@gmail.com>",
+  "license": "ISC"
+}
